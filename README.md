@@ -10,6 +10,6 @@ docker exec -ti employee-goal-rates-api-php php artisan db:seed
 ## example
 docker exec -ti employee-goal-rates-api-php php artisan test --filter EmployeeGoalRateTest::test_store
 
-## testowanie walidacji zmien w tescie wartosci w tabeli $input \tests\Feature\Employees\EmployeeGoalRateTest.php
+testowanie walidacji zmien w tescie wartosci w tabeli $input \tests\Feature\Employees\EmployeeGoalRateTest.php
 
 
